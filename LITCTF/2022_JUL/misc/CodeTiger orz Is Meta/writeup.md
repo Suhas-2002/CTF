@@ -4,5 +4,6 @@
 
 Command -> exiftool filename
 
-![image](https://user-images.githubusercontent.com/85097320/180738398-89af0272-6144-49bd-9a55-490bc91e75f8.png)
+![image](https://user-images.githubusercontent.com/85097320/180739186-2daa1c6e-4b9b-4056-95dd-b92a33148600.png)
+
 
