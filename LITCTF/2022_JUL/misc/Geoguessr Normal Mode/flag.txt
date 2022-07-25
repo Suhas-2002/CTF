@@ -1,2 +1,1 @@
-Flag format -> LITCTF{Lattitude,Longitude} [Round off lat and long to 3 decimal]
 flag -> LITCTF{22.162,113.500}
