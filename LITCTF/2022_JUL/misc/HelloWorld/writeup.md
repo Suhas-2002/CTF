@@ -3,7 +3,7 @@
 ## Description
 Here's an easy CTF problem for demonstration purposes. I will go get some caesar salad while you solve this.
 
-The challenge file is present in the same directory with the name challenge.txt.
+`The challenge file is present in the same directory with the name challenge.txt.`
 
 ## Solution
 1. The given text in the challenge file is encrypted using Caesar Cyper technique.
