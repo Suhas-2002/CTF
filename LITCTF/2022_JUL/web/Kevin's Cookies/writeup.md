@@ -1,3 +1,11 @@
+# Kevin's Cookies
+
+## Description
+Welcome to Kevin Zhu's cookie store! I heard he sells many super delicious cookies :yum:
+
+`The deployment link is provided in the same directory with the name challenge.txt.`
+
+## Solution
 1.	Changing the likeCookie [cookie] value to true gives us the first clue.
 
 ![image](https://user-images.githubusercontent.com/85097320/180746975-a59e3e4e-05ba-49aa-bbbf-35f1358dbdaa.png)
@@ -7,3 +15,4 @@
 
 ![image](https://user-images.githubusercontent.com/85097320/180747370-716b5cd5-4231-405a-9ac6-13adb005ad29.png)
 
+Challenge Link -> https://lit.lhsmathcs.org/ctfchal
