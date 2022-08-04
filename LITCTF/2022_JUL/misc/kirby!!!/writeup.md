@@ -9,6 +9,8 @@ https://vocaroo.com/12wR27kejDYj
 
 Original song: Green Grounds from Kirby Mass Attack
 
+`The Challenge file can be found in the same directory with the name challenge.mp3`
+
 ## Solution
 
 1. The flag is present in an audio file.
@@ -22,3 +24,4 @@ hsp@DESKTOP-9IK0E1G:/mnt/d/Downloads$ audacity challenge.mp3
 
 ![image](https://user-images.githubusercontent.com/85097320/180739657-e2bfaf9a-0066-4832-a4cf-91de6c5eb03b.png)
 
+Challenge Link -> https://lit.lhsmathcs.org/ctfchal
