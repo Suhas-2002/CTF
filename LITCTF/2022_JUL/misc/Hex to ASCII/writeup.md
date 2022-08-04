@@ -20,3 +20,5 @@ print(binascii.unhexlify(a))
 hsp@DESKTOP-9IK0E1G:/mnt/d/Downloads$ python solve.py
 b'LITCTF{t0ol5_4nd_w3bs1t3s_ar3_v3ry_imp0rt4nt_f0r_CTF}'
 ```
+
+Challenge Link -> https://lit.lhsmathcs.org/ctfchal
