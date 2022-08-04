@@ -3,7 +3,7 @@
 ## Desciption
 Download this image file and find the flag.
 
-`The challenge file is present in the same folder with name challenge.svg.`
+`The challenge file is present in the same folder with the name challenge.svg.`
 
 ## Solution
 The flag was found by using strings command.
