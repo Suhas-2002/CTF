@@ -2,6 +2,7 @@
 
 ## Description
 Where am I now? The flag is LITCTF{latitude,longtitude} rounded to the third decimal place. (Example: LITCTF{42.444,-71.230})
+
 `The challenge file is present in the same directory with the name challenge.png.`
 
 ## Solution
