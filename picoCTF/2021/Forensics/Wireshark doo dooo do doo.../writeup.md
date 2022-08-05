@@ -3,7 +3,9 @@
 ## Description
 Can you find the flag? `shark1.pcapng`.
 
-`The challenge file is present in the same directory with the name challenge.pcapng`
+`The challenge file can be downloaded from picoCTF website and name the file as challenge.pcapng`
+
+Challenge Link -> https://play.picoctf.org/practice/challenge/115?category=4&originalEvent=34&page=1
 
 ## Solution
 
@@ -34,4 +36,4 @@ hsp@DESKTOP-9IK0E1G:/mnt/d/Downloads$ python solve.py
 picoCTF{p33kab00_1_s33_u_deadbeef}
 ```
 
-Challenge Link -> https://play.picoctf.org/practice/challenge/115?category=4&originalEvent=34&page=1
+
