@@ -16,12 +16,12 @@ Challenge Link -> https://play.picoctf.org/practice/challenge/115?category=4&ori
 
 There is some text data present in `HTTP`
 
-4. On viewing the stream:
+3. On viewing the stream:
 
 ![image](https://user-images.githubusercontent.com/85097320/183053928-6eebb1d2-afc4-4ac1-b576-3bd96b3d2562.png)
 
-7. The highlighted text has to be `ROT13` to get our flag.
-8. Run the below script or use any online tool. [`CyberChef -> https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)`] 
+4. The highlighted text has to be `ROT13` to get our flag.
+5. Run the below script or use any online tool. [`CyberChef -> https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13)`] 
 
 ```python
 #solve.py
