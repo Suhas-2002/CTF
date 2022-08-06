@@ -3,7 +3,7 @@
 ## Description
  A number station in Russia broadcasted a series of encoded messages to one of it's intelligence agency. We have been able to get a piece of that message along with a picture hidden by one of the spy. Decode the transmitted data and be a hero!!
  
- `challenge files are uploaded in the folder called challenge`
+ `The link for challenge files are present in the folder named challenge`
  
  ## Solution
  
