@@ -4,7 +4,9 @@
 
 our sysadmin wasn't able to mount this weird filesystem to extract the needed file, can you mount it?.
 
-`The challenge file can be found in the same directory with the name as challenge.img`
+`The challenge file can be downloaded from the link given below`
+
+Link -> https://drive.google.com/file/d/1ulFA87O6hFGdYs4YEBslVHO3P9ohegv-/view?usp=sharing
 
 ## Solution
 
@@ -66,3 +68,4 @@ cat challenge.img
 hsp@DESKTOP-9IK0E1G:/mnt/d/Downloads$ cat Flag.txt
 ASCWG{M4C_4N6_1$_Co0l}
 ```
+Challenge Link -> https://www.ctf-ascwargames.com/wargames/challenges/62ea4f303d456fd178b7aeae
