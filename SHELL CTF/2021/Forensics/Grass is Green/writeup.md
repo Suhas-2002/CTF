@@ -6,7 +6,7 @@
 ## Solution
 
 1. This was a easy problem and I found the flag on viewing this image through different panes.
-2. As the name suggests green, on viewing this image through `solve` the flag could be found.
+2. As the name suggests green, on viewing this image through `Stegsolve` the flag could be found.
 3. This can also be done using this website -> https://stegonline.georgeom.net/   [Lsb Half]
 
 **Output**
